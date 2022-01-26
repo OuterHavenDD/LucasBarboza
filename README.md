@@ -8,7 +8,7 @@
 
 - 🔭  I'm studying  **[Anhanguera](https://www.anhanguera.com/)**
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, C#.**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript.**
 
 
 
@@ -24,7 +24,7 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>
+    
     <img src="https://img.icons8.com/color/48/000000/git.png"/>
 
 
