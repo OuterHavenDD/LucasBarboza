@@ -8,7 +8,7 @@
 
 - 🔭  I'm studying  **[Anhanguera](https://www.anhanguera.com/)**
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript.**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, SQL.**
 
 
 
