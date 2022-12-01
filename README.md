@@ -8,7 +8,7 @@
 
 - 🔭  I'm studying  **[Anhanguera](https://www.anhanguera.com/)**
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, SQL.**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, SQL, PL/SQL, Oracle Application Express.**
 
 
 
@@ -26,6 +26,9 @@
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
     <img src="https://img.icons8.com/color/48/000000/git.png"/>
     <img src="https://img.icons8.com/material-sharp/48/null/mysql-logo.png"/>
+    <img src="https://img.icons8.com/plasticine/48/null/oracle-application-express.png"/>
+    <img src="https://img.icons8.com/plasticine/48/null/oracle-pl-sql--v3.png"/>
+    
    
 
 
